@@ -1,5 +1,5 @@
 # Luxmi Singh | Full-Stack & Backend Engineer
-📍 Ludhiana, Punjab, India | 📱 +91 7973642515 | ✉️ singhluxmi86@gmail.com
+📍 Ludhiana, Punjab, India | 📱 +91 7973642515 | ✉️ singhluxmi86@gmail.com[cite: 1]
 
 📄 **[Download Full PDF Resume](./luxmi_resume(2).pdf)**
 
@@ -9,17 +9,17 @@
 * **Backend:** PHP, Laravel (MVC), Node.js, Express.js
 * **Database:** MySQL, MongoDB (NoSQL)
 * **CMS:** WordPress Custom Development
-* **Frontend:** React, JavaScript, jQuery, AJAX, Bootstrap, HTML5, CSS3
-* **Tools:** Git, GitHub, Vercel
+* **Frontend:** React, JavaScript, jQuery, AJAX, Bootstrap, HTML5, CSS3[cite: 1]
+* **Tools:** Git, GitHub, Vercel[cite: 1]
 
 ---
 
 ### 💼 Experience
-* **Full-Stack Web Development Intern** | *HB Infotech Solutions* (08/2025 – Present)
-* **Team Leader & Software Developer** | *BYTEVERSE 1.0 Hackathon* (04/2023)
-* **Core Software Developer** | *ROBO MANAI 2026 Hackathon (Top 10 National Teams)* (02/2026)
+* **Full-Stack Web Development Intern** | *HB Infotech Solutions* (08/2025 – Present)[cite: 1]
+* **Team Leader & Software Developer** | *BYTEVERSE 1.0 Hackathon* (04/2023)[cite: 1]
+* **Core Software Developer** | *ROBO MANAI 2026 Hackathon (Top 10 National Teams)* (02/2026)[cite: 1]
 
 ---
 
 ### 🎓 Education
-* **Bachelor of Computer Applications (BCA)** | Devki Devi Jain Memorial College For Women (Graduated 2026)
+* **Bachelor of Computer Applications (BCA)** | Devki Devi Jain Memorial College For Women (Graduated 2026)[cite: 1]
