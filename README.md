@@ -1,7 +1,7 @@
 # Luxmi Singh | Full-Stack & Backend Engineer
 📍 Ludhiana, Punjab, India | 📱 +91 7973642515 | ✉️ singhluxmi86@gmail.com
 
-📄 **[Download Full PDF Resume](./Luxmi_Singh_Resume.pdf)**
+📄 **[Download Full PDF Resume](./luxmi_resume(2).pdf)**
 
 ---
 
